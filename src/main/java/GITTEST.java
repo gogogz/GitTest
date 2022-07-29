@@ -8,5 +8,6 @@ public class GITTEST {
         System.out.println("hot-conflict");
         System.out.println("out out");
         System.out.println("come come");
+        System.out.println("push test");
     }
 }
