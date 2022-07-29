@@ -11,5 +11,6 @@ public class GITTEST {
         System.out.println("push test");
         System.out.println("pull test");
         System.out.println("gittt test");
+        System.out.println("origin test");
     }
 }
