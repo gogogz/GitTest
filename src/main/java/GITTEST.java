@@ -7,5 +7,6 @@ public class GITTEST {
         System.out.println("hot-fix");
         System.out.println("maste conflict");
         System.out.println("hot-conflict");
+        System.out.println("come come");
     }
 }
